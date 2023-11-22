@@ -1,1 +1,2 @@
-# Mathematical-Fundamental-Lab
+# Lab 2
+编程实现模平方重复法
