@@ -1,1 +1,2 @@
-# Mathematical-Fundamental-Lab
+# Lab 3
+编程实现利用中国剩余定理求解一次同余式组
